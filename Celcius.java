@@ -12,6 +12,6 @@ Ara = Fahrenheit-32;
 
 Celcius = Ara*5/9;
 
-System.out.println(Celcius);
+System.out.println("Celcius = " + Celcius);
 }
 }
